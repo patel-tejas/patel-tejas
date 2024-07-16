@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 <h3 align="center">A passionate fullstack developer from India. Along with that I explore diff trendy techs and try it out. Always tryin to build stuffs and learn something new !!</h3>
 
-- 👨‍💻 All of my projects are available at [https://tejaspatel.vercel.app](https://tejaspatel.vercel.app)
+- 👨‍💻 All of my projects are available at [https://tejaspatel.vercel.app](https://tejaspatel.biz)
 
 - 📝 I occasionally write articles on [https://medium.com/@pateltejas.2005](https://medium.com/@pateltejas.2005)
 
