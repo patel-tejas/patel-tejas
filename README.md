@@ -18,7 +18,11 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,html,css,tailwind,git,docker,linux" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patel-tejas&label=Profile views&color=0e75b6&style=flat" alt="patel-tejas" /> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=patel-tejas&label=Profile%20views&color=0e75b6&style=flat" alt="patel-tejas" />
+</p>
+
 
 ## ✨ Fun Section  
 ```bash
