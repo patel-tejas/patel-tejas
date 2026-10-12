@@ -8,8 +8,6 @@
 - 🌱 Currently exploring **AI, Web3, and full-stack development**  
 - 🎯 Goal: Build tools that solve real problems & inspire innovation  
 - 💡 I love **clean code, open-source, and creative problem solving**  
-- 🎨 Fun side: Designing, experimenting with UI/UX, and creating cool digital stuff  
-- ⚡ Random fact: I debug faster with music on 🎧  
 
 ---
 
