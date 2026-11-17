@@ -17,10 +17,6 @@
 </p>
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=patel-tejas&label=Profile%20views&color=0e75b6&style=flat" alt="patel-tejas" />
-</p>
-
 
 ## ✨ Fun Section  
 ```bash
